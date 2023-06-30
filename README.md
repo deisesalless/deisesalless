@@ -1,11 +1,11 @@
-### Olá 👋
-#### Meu nome é Deise
+### Hello 👋
+#### I'am Deise
 
-Sobre mim ...
-- 💻 Sou formada em Gestão de Tecnologia da Informação - UNIP, Universidade Paulista
-- 📚 Estou cursando Técnico de Informática - ETB, Escola Técnica de Brasília
-- 🛠️ Estou aprendendo HTML, CSS, Java e SQL
-- 💼 Estou busca do meu primeiro emprego como Desenvolvedora Back-End
+About me ...
+- 💻 I have a degree in Information Technology Management - UNIP, Paulista University
+- 📚 I'm studying Computer Technician - ETB, Technical School of Brasilia
+- 🛠️ I'm learning HTML, CSS, Java and SQL
+- 💼 I'm looking for my first job as a Back-End Developer
 
 
 
