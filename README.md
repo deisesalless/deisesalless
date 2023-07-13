@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hi there 👋
 #### I'm Deise
 
 About me ...
