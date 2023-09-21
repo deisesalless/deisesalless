@@ -15,10 +15,3 @@ About me ...
 <a href="https://www.css3.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="30" height="30"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/> </a>
-
-<div align="left">
-  <a href="https://github.com/deisesalless">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deisesalless&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deisesalless&layout=compact&langs_count=7&theme=swift"/>
-</div>
