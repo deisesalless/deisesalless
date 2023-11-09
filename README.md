@@ -4,7 +4,7 @@
 I like of...
 <ul>
   <li> Tech ❤️ </li>
-  <li> I programm in Java 💻 ☕ </li>
+  <li> I program in Java 💻 ☕ </li>
   <li> I speak in Portuguese and English 🌱 </li>
   <li> I live in Brazil 🇧🇷 </li>
   <li> I degree in Information Technology Management ✏️ </li>
