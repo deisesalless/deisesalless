@@ -1,17 +1,22 @@
-### Hi there 👋
-#### I'm Deise
+<h1 align="center"> Hi there, I'm Deise </h1>
+<h2 align="center"> The tech girl 👩🏻‍💻 </h2>
 
-About me ...
-- 💻 I have a degree in Information Technology Management - UNIP, Paulista University
-- 📚 I'm studying Computer Technician - ETB, Technical School of Brasilia
-- 🛠️ I'm learning HTML, CSS, Java and SQL
-- 💼 I'm looking for my first job as a Back-End Developer
+I like of...
+<ul>
+  <li> Tech ❤️ </li>
+  <li> I programm in Java 💻 ☕ </li>
+  <li> I speak in Portuguese and English 🌱 </li>
+  <li> I live in Brazil 🇧🇷 </li>
+  <li> I degree in Information Technology Management ✏️ </li>
+</ul>
 
+<h3 align="left">Conhecimentos:</h3>
 
-
-<h3 align="left">Conhecimentos:</h3><p align="left">
-
-<a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="30" height="30"/> </a>
-<a href="https://www.css3.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="30" height="30"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/> </a>
+<p align="left">  
+  <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="50" height="50"/> </a>
+  <a href="https://www.css3.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="50" height="50"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="65" height="65"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="65" height="65"/> </a>
+</p>  
