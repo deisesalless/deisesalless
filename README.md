@@ -10,7 +10,7 @@ I like of...
   <li> I degree in Information Technology Management ✏️ </li>
 </ul>
 
-<h3 align="left">Conhecimentos:</h3>
+<h3 align="left">Skills:</h3>
 
 <p align="left">  
   <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="50" height="50"/> </a>
