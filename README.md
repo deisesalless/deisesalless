@@ -1,13 +1,13 @@
 <h1 align="center"> Hi there, I'm Deise </h1>
 <h2 align="center"> The tech girl 👩🏻‍💻 </h2>
 
-I like of...
+About me...
 <ul>
-  <li> Tech ❤️ </li>
+  <li> I like of Tech ❤️ </li>
   <li> I program in Java 💻 ☕ </li>
   <li> I speak in Portuguese and English 🌱 </li>
   <li> I live in Brazil 🇧🇷 </li>
-  <li> I degree in Information Technology Management ✏️ </li>
+  <li> I degree in Information Technology Management from Paulista Univesity ✏️ </li>
 </ul>
 
 <h3 align="left">Skills:</h3>
