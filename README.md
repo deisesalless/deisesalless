@@ -5,7 +5,7 @@ About me...
 <ul>
   <li> I like of Tech ❤️ </li>
   <li> I program in Java 💻 ☕ </li>
-  <li> I speak in Portuguese and English 🌱 </li>
+  <li> I speak Portuguese and English 🌱 </li>
   <li> I live in Brazil 🇧🇷 </li>
   <li> I degree in Information Technology Management from Paulista Univesity ✏️ </li>
 </ul>
