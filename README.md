@@ -1,45 +1,32 @@
-# Hi there, I'm Deise. The tech girl 👩🏻‍💻
+# Sobre Mim 👋
 
-## About me...
-<ul>
-  <li> I like Tech 🦾 </li>
-  <li> I program in Java 💻 ☕ </li>
-  <li> I speak Portuguese and English 👄 </li>
-  <li> I live in Brazil 🇧🇷 </li>
-  <li> I have a degree in Information Technology Management from Paulista Univesity ✏️ </li>
-  <li> I have a postgraduate in Project Management from Senac Postgraduate School 📚 </li>
-</ul>
+Olá! Meu nome é **Deise**, e sou uma **Desenvolvedora de Software** com paixão por **desenvolvimento back-end**.
 
-## Projects
-<ul>
-  <li>
-    E-commerce system: <a href="https://github.com/deisesalless/projeto-site-de-estoque-venda" target="_blank" rel="external">Click here<a/>
-      <ul>
-        <li>Front-End: HTML and CSS</li>
-        <li>Back-End: PHP and MySQL</li>
-      </ul>
-  </li>
-  <li>
-    Order System: <a href="https://github.com/deisesalless/ETB-sistema-de-ordem-de-servico" target="_blank" rel="external">Click here<a/>
-      <ul>
-        <li>Front-End: HTML, CSS, JavaScript, JSP</li>
-        <li>Back-End: Java and MySQL</li>
-      </ul>
-  </li>
-</ul>
+### Linguagens de Programação e Banco de Dados
+- **Java** 
+- **SQL**
+- **MySQL, PostgreSQL, H2**
 
-## Skills
+### Frameworks e Tecnologias
+- **Spring Boot**
+- **Spring Web**
+- **Spring Data JPA**
+- **Hibernate**
+- **Spring Security**
+- **Spring Framework**
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://github.com/lucarauj/assets/blob/main/SpringBoot.jpeg" alt="springboot" width="150" height="50"/></a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" alt="maven" width="60" height="60"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="55"/></a>
-  <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html" width="60" height="60"/></a>
-  <a href="https://www.css3.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="60" height="60"/></a>
-</p>
+### Ferramentas de Desenvolvimento
+- **Eclipse, IntelliJ IDEA**
+- **Git e GitHub** 
+- **Docker** 
+
+### Front-end Básico
+- **HTML e CSS**
+
+### Outros Conhecimentos
+- **Modelagem de Dados** (DER)
+- **Metodologias Ágeis** (Scrum e Kanban - Gestão de Projetos)
+
+## Contato 📫
+
+- **LinkedIn:** ([Clique aqui](https://www.linkedin.com/in/deise-sales-dev/))
