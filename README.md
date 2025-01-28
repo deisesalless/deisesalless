@@ -20,7 +20,7 @@ Olá! Meu nome é **Deise**, e sou uma **Desenvolvedora de Software** com paixã
 - **Git e GitHub** 
 - **Docker** 
 
-### Front-end Básico
+### Front-end
 - **HTML e CSS**
 
 ### Outros Conhecimentos
