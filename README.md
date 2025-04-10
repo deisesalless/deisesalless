@@ -1,50 +1,24 @@
-# Sobre Mim 👋
+### 👩‍💻 Hi there! I'm Deise
 
-Olá! Meu nome é **Deise**, e sou uma **Desenvolvedora de Software** com paixão por **desenvolvimento back-end**. Adoro criar soluções robustas e escaláveis, focando em qualidade e boas práticas de programação.
+I'm a software engineer and I like working in backend development. I enjoy learning new technologies and understanding how these tools work. Putting my knowledge into practice is my superpower 😄 I love seeing how technology impacts humanity and how people use these tools in their daily lives.
 
----
+Here you'll see my projects with **Java** and **Python**. Sometimes, you'll find other technologies too.  
+Currently, my focus is backend with Java and Python — but when I try to learn frontend, I cry 😅  
+(colors and their harmony are just not my thing hahaha)
 
-## 🛠️ Habilidades Técnicas
+So... enjoy, and be careful! 🚀
 
-### 💻 **Linguagens de Programação e Banco de Dados**
-- **Java**
-- **SQL**
-- **MySQL, PostgreSQL, H2**
+### 🛠️ Techs I use
 
-### 🚀 **Frameworks e Tecnologias**
-- **Spring Boot**
-- **Spring Web**
-- **Spring Data JPA**
-- **Hibernate**
-- **Spring Security**
-- **Spring Framework**
-
-### 🛠️ **Ferramentas de Desenvolvimento**
-- **Eclipse, IntelliJ IDEA**
-- **Git e GitHub**
-- **Docker**
-
-### 🎨 **Front-end**
-- **HTML e CSS**
-
-### 📚 **Outros Conhecimentos**
-- **Modelagem de Dados** (DER)
-- **Metodologias Ágeis** (Scrum e Kanban - Gestão de Projetos)
+**BackEnd:** Java • Spring • SQL • MySQL • PostgreSQL  
+**FrontEnd:** Flet • HTML • CSS  
+**Version Control:** Git  
+**Other:** Docker • Flyway Migrations • Swagger
 
 ---
 
-## 📫 **Contato**
-
-- **LinkedIn:** [Clique aqui para acessar meu perfil](https://www.linkedin.com/in/deise-sales-dev/)  
-
----
-
-### 🌟 **Destaques**
-- **Experiência em desenvolvimento back-end com Java e Spring Boot.**
-- **Conhecimento em bancos de dados relacionais e modelagem de dados.**
-- **Familiaridade com práticas ágeis e colaboração em equipe.**
-
----
-
-### 📌 **Objetivo**
-Estou sempre em busca de oportunidades para contribuir com projetos desafiadores, aplicar meus conhecimentos em desenvolvimento de software e continuar aprendendo novas tecnologias.
+<div>
+  <a href="https://github.com/deisesalless">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deisesalless&layout=compact&langs_count=7&theme=light"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deisesalless&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+</div>
