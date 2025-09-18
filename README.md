@@ -2,17 +2,11 @@
 
 I'm a software engineer and I like working in backend development. I enjoy learning new technologies and understanding how these tools work. Putting my knowledge into practice is my superpower 😄 I love seeing how technology impacts humanity and how people use these tools in their daily lives.
 
-Here you'll see my projects with **Java** and **Python**. Sometimes, you'll find other technologies too.  
-Currently, my focus is backend with Java and Python — but when I try to learn frontend, I cry 😅  
-(colors and their harmony are just not my thing hahaha)
-
-So... enjoy, and be careful! 🚀
-
 ### 🛠️ Techs I use
 
-**BackEnd:** Java • Spring • SQL • MySQL • PostgreSQL  
-**FrontEnd:** Flet • HTML • CSS  
-**Version Control:** Git  
+**BackEnd:** Java • Spring • SQL • MySQL • MariaDB • PostgreSQL  
+**FrontEnd:** Vue.js • Flet • HTML • CSS  
+**Version Control:** Git • SVN
 **Other:** Docker • Flyway Migrations • Swagger
 
 ---
