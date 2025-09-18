@@ -4,7 +4,7 @@ I'm a software engineer and I like working in backend development. I enjoy learn
 
 #### 🛠️ Techs I use
 
-**BackEnd:** Java • Spring • SQL • MySQL • MariaDB • PostgreSQL  
+**BackEnd:** Java • JEE • Spring • SQL • MySQL • MariaDB • PostgreSQL  
 **FrontEnd:** Vue.js • Flet • HTML • CSS  
 **Version Control:** Git • SVN
 **Other:** Docker • Flyway Migrations • Swagger
