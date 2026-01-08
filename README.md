@@ -10,9 +10,3 @@ I'm a software engineer and I like working in backend development. I enjoy learn
 **Other:** Docker • Flyway Migrations • Swagger
 
 ---
-
-<div>
-  <a href="https://github.com/deisesalless">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deisesalless&layout=compact&langs_count=7&theme=light"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deisesalless&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-</div>
