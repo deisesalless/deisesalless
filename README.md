@@ -1,12 +1,38 @@
 ### 👩‍💻 Hi there! I'm Deise
 
-I'm a software engineer and I like working in backend development. I enjoy learning new technologies and understanding how these tools work. Putting my knowledge into practice is my superpower 😄 I love seeing how technology impacts humanity and how people use these tools in their daily lives.
+I'm a backend developer in career transition. I have around 1 year of experience working with software development in a professional residency.  
+
+I like building APIs, learning new technologies, and improving system performance.  
+Now I am focusing on backend, cloud, CI/CD, and microservices.
+
+---
 
 #### 🛠️ Techs I use
 
-**BackEnd:** Java • JEE • Spring • SQL • MySQL • MariaDB • PostgreSQL  
-**FrontEnd:** Vue.js • Flet • HTML • CSS  
-**Version Control:** Git • SVN
-**Other:** Docker • Flyway Migrations • Swagger
+**BackEnd:** Java • Spring Boot • Jakarta EE • REST APIs  
+**Database:** PostgreSQL • SQL Server  
+**FrontEnd:** Vue.js • TypeScript • HTML • CSS  
+
+**Tools:** Git • Maven • JUnit • Mockito • MapStruct • Flyway • Docker  
+**Practices:** REST • MVC • Layered Architecture • SOLID • Scrum  
 
 ---
+
+#### 📌 Current Project
+
+**Hair E-commerce API (in progress)**  
+- Java + Spring Boot  
+- PostgreSQL + Flyway  
+- DTO with MapStruct  
+- Validation with Spring Validation  
+- Docker Compose  
+
+👉 https://github.com/deisesalless/hair-ecommerce  
+
+---
+
+#### 🚀 Currently learning
+
+- CI/CD (GitHub Actions)  
+- Cloud (AWS basics)  
+- Microservices and messaging (RabbitMQ)  
