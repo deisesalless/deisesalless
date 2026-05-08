@@ -11,7 +11,7 @@ Now I am focusing on backend, cloud, CI/CD, and microservices.
 
 **BackEnd:** Java • Spring Boot • Jakarta EE • REST APIs  
 **Database:** PostgreSQL • SQL Server  
-**FrontEnd:** Vue.js • TypeScript
+**FrontEnd:** Vue.js • TypeScript  
 **Tools:** Git • Maven • JUnit • Mockito • MapStruct • Flyway • Docker  
 **Practices:** REST • MVC • SOLID • Scrum  
 
